@@ -6,15 +6,15 @@
 
 
 <h2>Description</h2>
-Completed an in-depth program covering foundational and advanced cybersecurity concepts, tools, and practices. Developed skills in security incident detection, threat management, and risk assessment, focusing on protecting systems and networks from cyber threats. Gained hands-on experience through labs and practical projects.
+Completed a comprehensive program focused on key IT support concepts, including hardware troubleshooting, operating systems, networking, and cybersecurity fundamentals. Developed practical skills in system administration, customer service, and problem resolution using real-world scenarios and hands-on labs.
 <br />
 <h2>Skills Acquired(Key Topics Covered)</h2>
 
-- Security Incident Detection and Response
-- Network and System Security Best Practices
-- Threat and Vulnerability Management
-- Risk Assessment and Mitigation Strategies
-- Linux, SIEM, and Security Monitoring Tools
+- Hardware and Software Troubleshooting
+- Operating Systems (Windows, Linux)
+- Networking and IT Infrastructure
+- System Administration and User Support
+- Cybersecurity Basics and Risk Management
 <h2>Certificate Showcase:</h2>
 
 <p align="center"> 
