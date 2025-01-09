@@ -1,6 +1,6 @@
 <h1>IBM IT Support Professional Certificate</h1>
 
-- Google – Issued by Coursera in partnership with Google
+- IBM – Issued by Coursera in partnership with IBM
 - 6-8 Months Program
 - Completed: September 2024
 
